@@ -13,6 +13,7 @@ python-dotenv = "*"
 pillow = "*"
 django-extensions = "*"
 ipython = "*"
+requests = "*"
 
 [requires]
 python_version = "3.8"
